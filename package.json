@@ -1,9 +1,9 @@
 {
-  "name": "angular-seed",
+  "name": "bmj-th-cd-quiz",
   "private": true,
   "version": "0.0.0",
-  "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
+  "description": "BMJ Town Hall - Continuous Delivery Quiz",
+  "repository": "https://github.com/plopez-bmj/bmj-th-cd-quiz",
   "license": "MIT",
   "devDependencies": {
     "karma": "~0.10",
