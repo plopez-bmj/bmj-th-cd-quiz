@@ -28,3 +28,10 @@
   content: "";
   padding: 0;
 }
+
+.footer {
+  list-style: none;
+  border-top: 0.1em solid black;
+  margin-top: 2em;
+  padding: 0 0 0.5em;
+}
