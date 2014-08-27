@@ -11,7 +11,8 @@ exports.config = {
     'browserName': 'chrome'
   },
 
-  baseUrl: 'http://bmj-th-cd-quiz-test.herokuapp.com',
+  //baseUrl: 'http://bmj-th-cd-quiz-test.herokuapp.com',
+  baseUrl: 'http://townhall2014test-env.elasticbeanstalk.com',
 
   framework: 'jasmine',
 
